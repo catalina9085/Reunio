@@ -1,0 +1,23 @@
+
+# Angular dependencies
+teme_sma/frontend/node_modules/
+
+# Angular cache and build output
+teme_sma/frontend/.angular/
+teme_sma/frontend/dist/
+teme_sma/frontend/out-tsc/
+
+# Environment files that may contain secrets
+teme_sma/frontend/.env
+teme_sma/frontend/.env.*
+
+# Logs
+teme_sma/frontend/npm-debug.log*
+teme_sma/frontend/yarn-debug.log*
+teme_sma/frontend/pnpm-debug.log*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
